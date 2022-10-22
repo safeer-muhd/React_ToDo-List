@@ -38,7 +38,7 @@ function App() {
               <p>{obj.text}</p>
             </div>
             <div className="right">
-              <i className="fas fa-times"></i>
+              <i className="fas fa-trash-alt"></i>
               </div>
             </div>
             )
